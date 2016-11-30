@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_clientes_fragment"
+            android:icon="@drawable/ic_one"
+            android:title="Clientes"/>
+
+        <item
+            android:id="@+id/nav_autoridades_fragment"
+            android:icon="@drawable/ic_two"
+            android:title="Autoridades"/>
+
+        <item
+            android:id="@+id/nav_agregar_caso_fragment"
+            android:icon="@drawable/ic_three"
+            android:title="Nuevo caso"/>
+    </group>
+</menu><!-- From: file:/C:/Users/erick.bolanos/AndroidStudioProjects/AplicacionPractica/app/src/main/res/menu/drawer_view.xml -->

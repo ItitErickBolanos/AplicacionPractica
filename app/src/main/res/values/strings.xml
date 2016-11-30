@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AplicacionPractica</string>
+    <string name="drawer_open">Abrir navigation drawer</string>
+    <string name="drawer_close">Cerrar navigation drawer</string>
+    <string name="action_websearch">Búsqueda en la web</string>
+    <string name="app_not_available">Lo sentimos, no hay ningún navegador disponible</string>
+</resources>

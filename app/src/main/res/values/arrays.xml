@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="listaMenu">
+        <item>Cliente</item>
+        <item>Autoridades</item>
+        <item>Nuevo caso</item>
+    </array>
+</resources>
